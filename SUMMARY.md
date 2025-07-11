@@ -1,0 +1,13 @@
+# Table of contents
+
+* [Social Commerce](README.md)
+* [metodología](metodologia.md)
+* [💡 POSIBLES VÍAS DE NEGOCIO](posibles-vias-de-negocio.md)
+* [Guia de investigación](guia-de-investigacion.md)
+* [¿Qué están haciendo los pequeños e-commerces en redes sociales? (España y el Mundo 2025)](que-estan-haciendo-los-pequenos-e-commerces-en-redes-sociales-espana-y-el-mundo-2025.md)
+* [¿Qué están haciendo grandes e-commerces en redes sociales?](que-estan-haciendo-grandes-e-commerces-en-redes-sociales.md)
+* [Tabla comparativa de las diferencias clave entre grandes y pequeños e-commerces en redes sociales](tabla-comparativa-de-las-diferencias-clave-entre-grandes-y-pequenos-e-commerces-en-redes-sociales.md)
+* [¿Qué herramientas están dando servicios a e-commerce para las redes social orientados a visib/conve?](que-herramientas-estan-dando-servicios-a-e-commerce-para-las-redes-social-orientados-a-visib-conve.md)
+* [Investigar la analítica de e-commerce en redes sociales](investigar-la-analitica-de-e-commerce-en-redes-sociales.md)
+* [¿Qué es el Social commerce?](que-es-el-social-commerce.md)
+* [Social commerce y Ads](social-commerce-y-ads.md)
