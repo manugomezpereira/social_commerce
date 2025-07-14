@@ -11,3 +11,4 @@
 * [Investigar la analítica de e-commerce en redes sociales](investigar-la-analitica-de-e-commerce-en-redes-sociales.md)
 * [¿Qué es el Social commerce?](que-es-el-social-commerce.md)
 * [Social commerce y Ads](social-commerce-y-ads.md)
+* [Social commerce de afiliación (Social afiliación)](social-commerce-de-afiliacion-social-afiliacion.md)
