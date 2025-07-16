@@ -15,3 +15,16 @@
 * [El ecommerce en general y los anuncios (ads)](el-ecommerce-en-general-y-los-anuncios-ads.md)
 * [Dropshipping y redes de afiliación](dropshipping-y-redes-de-afiliacion.md)
 * [Estudio actual de plataformas de afiliación](estudio-actual-de-plataformas-de-afiliacion.md)
+
+## Estudio IAB
+
+* [📱 Ecommerce y RRSS | Búsquedas antes de comprar](estudio-iab/ecommerce-y-rrss-or-busquedas-antes-de-comprar.md)
+* [💬 Ecommerce y RRSS | Comentarios tras la compra](estudio-iab/ecommerce-y-rrss-or-comentarios-tras-la-compra.md)
+* [🌟 Ecommerce y RRSS | Valoración de Comentarios](estudio-iab/ecommerce-y-rrss-or-valoracion-de-comentarios.md)
+* [🛒 Ecommerce y RRSS | ¿Cómo influyen en el proceso de compra?](estudio-iab/ecommerce-y-rrss-or-como-influyen-en-el-proceso-de-compra.md)
+* [📲 Ecommerce y RRSS | Influencia en la decisión de compra](estudio-iab/ecommerce-y-rrss-or-influencia-en-la-decision-de-compra.md)
+* [🛒 Ecommerce y RRSS | Canal de compra directa](estudio-iab/ecommerce-y-rrss-or-canal-de-compra-directa.md)
+* [🛍️ Ecommerce y RRSS | Frecuencia de compra](estudio-iab/ecommerce-y-rrss-or-frecuencia-de-compra.md)
+* [🔮 Ecommerce y RRSS | Futuro de la compra](estudio-iab/ecommerce-y-rrss-or-futuro-de-la-compra.md)
+* [🛒 ECOMMERCE Y RRSS | LIVE SHOPPING](estudio-iab/ecommerce-y-rrss-or-live-shopping.md)
+* [🛍️ Ecommerce y Redes Sociales 2025](estudio-iab/ecommerce-y-redes-sociales-2025.md)
