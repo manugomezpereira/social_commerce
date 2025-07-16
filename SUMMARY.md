@@ -14,3 +14,4 @@
 * [Social commerce de afiliación (Social afiliación)](social-commerce-de-afiliacion-social-afiliacion.md)
 * [El ecommerce en general y los anuncios (ads)](el-ecommerce-en-general-y-los-anuncios-ads.md)
 * [Dropshipping y redes de afiliación](dropshipping-y-redes-de-afiliacion.md)
+* [Estudio actual de plataformas de afiliación](estudio-actual-de-plataformas-de-afiliacion.md)
