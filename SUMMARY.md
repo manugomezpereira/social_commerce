@@ -32,6 +32,8 @@
 ***
 
 * [ECOMMERCE Y RRSS | 📢 Percepción de la Publicidad](ecommerce-y-rrss-or-percepcion-de-la-publicidad.md)
+* [ECOMMERCE Y RRSS | Radiografía de la Publicidad Personalizada](ecommerce-y-rrss-or-radiografia-de-la-publicidad-personalizada.md)
+* [ECOMMERCE Y RRSS | Resumen Percepción de la Publicidad en Redes Sociales](ecommerce-y-rrss-or-resumen-percepcion-de-la-publicidad-en-redes-sociales.md)
 
 ## Social Commerce
 
