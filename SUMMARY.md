@@ -39,4 +39,3 @@
 * [ECOMMERCE Y RRSS | Social Commerce y Ads: Estrategias y formatos para la conversión 🚀](social-commerce-1/ecommerce-y-rrss-or-social-commerce-y-ads-estrategias-y-formatos-para-la-conversion.md)
 * [ECOMMERCE Y RRSS | Dropshipping y redes de afiliación: modelo, estrategias y rentabilidad 🚀](social-commerce-1/ecommerce-y-rrss-or-dropshipping-y-redes-de-afiliacion-modelo-estrategias-y-rentabilidad.md)
 * [ECOMMERCE Y RRSS | Plataformas de afiliación: panorama, servicios y tendencias 🚀](social-commerce-1/ecommerce-y-rrss-or-plataformas-de-afiliacion-panorama-servicios-y-tendencias.md)
-* [Page](social-commerce-1/page.md)
