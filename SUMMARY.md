@@ -29,6 +29,10 @@
 * [🛒 ECOMMERCE Y RRSS | LIVE SHOPPING](estudio-iab/ecommerce-y-rrss-or-live-shopping.md)
 * [🛍️ Ecommerce y Redes Sociales 2025](estudio-iab/ecommerce-y-redes-sociales-2025.md)
 
+***
+
+* [ECOMMERCE Y RRSS | 📢 Percepción de la Publicidad](ecommerce-y-rrss-or-percepcion-de-la-publicidad.md)
+
 ## Social Commerce
 
 * [ECOMMERCE Y RRSS | ¿Qué están haciendo los pequeños y grandes e-commerces en redes sociales? (España](social-commerce-1/ecommerce-y-rrss-or-que-estan-haciendo-los-pequenos-y-grandes-e-commerces-en-redes-sociales-espana.md)
