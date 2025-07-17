@@ -36,6 +36,8 @@
 * [ECOMMERCE Y RRSS | Resumen Percepción de la Publicidad en Redes Sociales](ecommerce-y-rrss-or-resumen-percepcion-de-la-publicidad-en-redes-sociales.md)
 * [ECOMMERCE Y RRSS | 📸 Influencers: Quién, Dónde y Por Qué](ecommerce-y-rrss-or-influencers-quien-donde-y-por-que.md)
 * [ECOMMERCE Y RRSS | Seguimiento a Influencers: Quién, Dónde y Cómo](ecommerce-y-rrss-or-seguimiento-a-influencers-quien-donde-y-como.md)
+* [ECOMMERCE Y RRSS | 🎯 La Doble Cara de la Influencia: Más Credibilidad, Más Exigencia](ecommerce-y-rrss-or-la-doble-cara-de-la-influencia-mas-credibilidad-mas-exigencia.md)
+* [ECOMMERCE Y RRSS | Influencers Virtuales](ecommerce-y-rrss-or-influencers-virtuales.md)
 
 ## Social Commerce
 
