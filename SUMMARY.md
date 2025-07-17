@@ -39,6 +39,10 @@
 * [ECOMMERCE Y RRSS | 🎯 La Doble Cara de la Influencia: Más Credibilidad, Más Exigencia](ecommerce-y-rrss-or-la-doble-cara-de-la-influencia-mas-credibilidad-mas-exigencia.md)
 * [ECOMMERCE Y RRSS | Influencers Virtuales](ecommerce-y-rrss-or-influencers-virtuales.md)
 * [ECOMMERCE Y RRSS | 📊 El Panorama de los Influencers en 2025](ecommerce-y-rrss-or-el-panorama-de-los-influencers-en-2025.md)
+* [ECOMMERCE Y RRSS | 👁️ Percepción de Contenido con IA](ecommerce-y-rrss-or-percepcion-de-contenido-con-ia.md)
+* [ECOMMERCE Y RRSS | Contenido Generado por IA](ecommerce-y-rrss-or-contenido-generado-por-ia.md)
+* [ECOMMERCE Y RRSS | Uso y Percepción de la IA en Redes Sociales](ecommerce-y-rrss-or-uso-y-percepcion-de-la-ia-en-redes-sociales.md)
+* [ECOMMERCE Y RRSS | Inteligencia Artificial en Contenidos](ecommerce-y-rrss-or-inteligencia-artificial-en-contenidos.md)
 
 ## Social Commerce
 
