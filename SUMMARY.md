@@ -74,3 +74,7 @@
 ***
 
 * [anunciantes/estudio IAB](anunciantes-estudio-iab.md)
+
+## 🥹 Resumen expo
+
+* [RESÚMENES (Automatismos y Analítica)](resumen-expo/resumenes-automatismos-y-analitica.md)
