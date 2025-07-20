@@ -77,4 +77,9 @@
 
 ## 🥹 Resumen expo
 
-* [RESÚMENES (Automatismos y Analítica)](resumen-expo/resumenes-automatismos-y-analitica.md)
+* [Herramienta](resumen-expo/herramienta.md)
+
+***
+
+* [Medios](medios-1.md)
+* [Tamaño del Mercado](tamano-del-mercado-1.md)
