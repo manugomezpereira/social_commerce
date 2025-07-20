@@ -15,7 +15,6 @@
 * [El ecommerce en general y los anuncios (ads)](el-ecommerce-en-general-y-los-anuncios-ads.md)
 * [Dropshipping y redes de afiliación](dropshipping-y-redes-de-afiliacion.md)
 * [Estudio actual de plataformas de afiliación](estudio-actual-de-plataformas-de-afiliacion.md)
-* [📊 ECOMMERCE Y RRSS | Influencia por Generación](ecommerce-y-rrss-or-influencia-por-generacion.md)
 
 ## Estudio IAB
 
@@ -44,6 +43,12 @@
 * [ECOMMERCE Y RRSS | Contenido Generado por IA](ecommerce-y-rrss-or-contenido-generado-por-ia.md)
 * [ECOMMERCE Y RRSS | Uso y Percepción de la IA en Redes Sociales](ecommerce-y-rrss-or-uso-y-percepcion-de-la-ia-en-redes-sociales.md)
 * [ECOMMERCE Y RRSS | Inteligencia Artificial en Contenidos](ecommerce-y-rrss-or-inteligencia-artificial-en-contenidos.md)
+* [📊 ECOMMERCE Y RRSS | Influencia por Generación](ecommerce-y-rrss-or-influencia-por-generacion.md)
+* [📊 ECOMMERCE Y RRSS | Objetivos Clave para 2025](ecommerce-y-rrss-or-objetivos-clave-para-2025.md)
+* [🚀 ECOMMERCE Y RRSS | Estrategia de Contenidos 2025](ecommerce-y-rrss-or-estrategia-de-contenidos-2025.md)
+* [ECOMMERCE Y RRSS | 📊 Inversión Publicitaria: El Nuevo Mapa de Poder 2025](ecommerce-y-rrss-or-inversion-publicitaria-el-nuevo-mapa-de-poder-2025.md)
+* [ECOMMERCE Y RRSS | Promoción de Ventas por Profesionales](ecommerce-y-rrss-or-promocion-de-ventas-por-profesionales.md)
+* [Page](page.md)
 
 ## Social Commerce
 
@@ -55,3 +60,11 @@
 * [ECOMMERCE Y RRSS | Social Commerce y Ads: Estrategias y formatos para la conversión 🚀](social-commerce-1/ecommerce-y-rrss-or-social-commerce-y-ads-estrategias-y-formatos-para-la-conversion.md)
 * [ECOMMERCE Y RRSS | Dropshipping y redes de afiliación: modelo, estrategias y rentabilidad 🚀](social-commerce-1/ecommerce-y-rrss-or-dropshipping-y-redes-de-afiliacion-modelo-estrategias-y-rentabilidad.md)
 * [ECOMMERCE Y RRSS | Plataformas de afiliación: panorama, servicios y tendencias 🚀](social-commerce-1/ecommerce-y-rrss-or-plataformas-de-afiliacion-panorama-servicios-y-tendencias.md)
+
+## Resumen Estudio iab
+
+* [seguidores/ estudio IAB](resumen-estudio-iab/seguidores-estudio-iab.md)
+
+***
+
+* [anunciantes/estudio IAB](anunciantes-estudio-iab.md)
