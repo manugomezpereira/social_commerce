@@ -61,6 +61,12 @@
 * [ECOMMERCE Y RRSS | Dropshipping y redes de afiliación: modelo, estrategias y rentabilidad 🚀](social-commerce-1/ecommerce-y-rrss-or-dropshipping-y-redes-de-afiliacion-modelo-estrategias-y-rentabilidad.md)
 * [ECOMMERCE Y RRSS | Plataformas de afiliación: panorama, servicios y tendencias 🚀](social-commerce-1/ecommerce-y-rrss-or-plataformas-de-afiliacion-panorama-servicios-y-tendencias.md)
 
+***
+
+* [medios](medios.md)
+* [Herramienta](herramienta.md)
+* [Tamaño del Mercado](tamano-del-mercado.md)
+
 ## Resumen Estudio iab
 
 * [seguidores/ estudio IAB](resumen-estudio-iab/seguidores-estudio-iab.md)

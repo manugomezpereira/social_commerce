@@ -60,12 +60,15 @@ Sube desde el 3º.
 
 * Crece con fuerza (+5pp) y sube una posición.
 
-#### &#x20;**¿Cuánto promueves la venta a través de redes sociales?**
+#### &#x20;**¿Cuánto promueves entre tus clientes la compra a través de RRSS?**
 
-| Nivel de Promoción | Porcentaje 2025 | Variación vs. 2024 | Tendencia |
-| ------------------ | --------------- | ------------------ | --------- |
-| Mucho              | 10%             | -                  | 🟢        |
-| **Bastante**       | **53%**         | **▲ +13 pp**       | 🟢🟢      |
-| Algo               | 29%             | ▼ -7 pp            | 🔴        |
-| Poco               | 6%              | ▼ -6 pp            | 🔴        |
-| Nada               | 2%              | -                  | 🔴        |
+| Nivel de Promoción | Porcentaje 2025 | Variación vs. 2024 |
+| ------------------ | --------------- | ------------------ |
+| Mucho              | 10%             | -                  |
+| **Bastante**       | **53%**         | **▲ +13 pp**       |
+| Algo               | 29%             | ▼ -7 pp            |
+| Poco               | 6%              | ▼ -6 pp            |
+| Nada               | 2%              | -                  |
+
+> Crece la promoción de compra a través de RRSS por\
+> parte de los profesionales:  63% +11pp con respecto al año anterior
