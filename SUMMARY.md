@@ -15,6 +15,7 @@
 * [El ecommerce en general y los anuncios (ads)](el-ecommerce-en-general-y-los-anuncios-ads.md)
 * [Dropshipping y redes de afiliación](dropshipping-y-redes-de-afiliacion.md)
 * [Estudio actual de plataformas de afiliación](estudio-actual-de-plataformas-de-afiliacion.md)
+* [📊 ECOMMERCE Y RRSS | Influencia por Generación](ecommerce-y-rrss-or-influencia-por-generacion.md)
 
 ## Estudio IAB
 
