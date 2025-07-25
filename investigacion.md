@@ -55,6 +55,8 @@ tiktok: De forma orgánica la tienda solo se muestra en la app móvil&#x20;
 
 <figure><img src=".gitbook/assets/photo_2025-07-25_20-00-54 (3).jpg" alt="" width="288"><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/photo_2025-07-25_20-29-30.jpg" alt="" width="288"><figcaption></figcaption></figure>
+
 * no se puede realizar un catálogo como en Facebook o Instagram &#x20;
 
 | Acción                                                                 | ¿Permitido?                         |
