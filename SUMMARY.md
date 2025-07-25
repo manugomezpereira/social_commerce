@@ -83,3 +83,11 @@
 
 * [Medios](medios-1.md)
 * [Tamaño del Mercado](tamano-del-mercado-1.md)
+
+## 💎 vías de negocio&#x20;
+
+* [Posibles vías de negocio](vias-de-negocio/posibles-vias-de-negocio.md)
+
+***
+
+* [Investigación](investigacion.md)
