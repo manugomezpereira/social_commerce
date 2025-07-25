@@ -91,3 +91,5 @@
 ***
 
 * [Investigación](investigacion.md)
+* [Telegram](telegram.md)
+* [WhatsApp](whatsapp.md)
