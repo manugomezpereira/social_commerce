@@ -108,4 +108,58 @@ flowchart TD
     TS5 --> G
 ```
 
-* tiktok shop para creadores necesitas 1500 seguidores en tu comunidad
+* tiktok shop para creadores: necesitas 1500 seguidores en tu comunidad
+
+### 📱 **Catálogo WhatsApp Business en España - Cómo Funciona**
+
+#### **Lo que SÍ puedes hacer:**
+
+✅ **Crear un catálogo visual** con hasta 500 productos\
+✅ **Subir fotos** de productos\
+✅ **Poner precios** y descripciones\
+✅ **Organizar por categorías** (Electrónica, Hogar, etc.)\
+✅ **Está disponible en España** sin restricciones
+
+#### **Lo que NO puedes hacer:**
+
+❌ **Links clicables** dentro del catálogo\
+❌ **Botón "Comprar ahora"** directo\
+❌ **Redirigir automáticamente** a Amazon o tiendas externas
+
+***
+
+### 🎯 **Cómo Funciona en la Práctica:**
+
+**El catálogo es básicamente un "escaparate visual"** donde el cliente:
+
+1. **Ve el producto** con foto bonita y precio
+2. **No puede hacer clic** para comprarlo
+3. **Debe escribirte** para más información
+4. **Tú respondes** con el link de afiliado + info personalizada
+
+### ✅ **Recomendación Final:**
+
+**WhatsApp Business es EXCELENTE para afiliación** cuando:
+
+* ✅ Tienes audiencia que confía en ti
+* ✅ Vendes productos que requieren explicación/comparación
+* ✅ Ofreces valor añadido (descuentos, consejos, soporte)
+* ✅ Lo combinas con otros canales
+
+**No funciona bien cuando:**
+
+* ❌ Solo envías spam de productos sin valor
+* ❌ No tienes audiencia inicial
+* ❌ Vendes productos commodity sin diferenciación
+
+#### idea&#x20;
+
+Se pudiera crear un bot que analice las respuestas transaccionales de los usuarios y envíe automáticamente los enlaces de afiliación correspondientes.
+
+
+
+### Telegram
+
+Telegram Ads se presenta como mensajes patrocinados de 160 caracteres que se muestran en canales con más de 1000 suscriptores, No se pueden personalizar los anuncios, y solo se puede enlazar a un canal o bot de Telegram.
+
+Importante es tener una comunidad y explotarla con bot como chollometro&#x20;

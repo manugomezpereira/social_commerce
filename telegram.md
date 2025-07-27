@@ -11,7 +11,6 @@ Sí, Telegram cuenta con una plataforma oficial de anuncios llamada **Telegram A
 * Solo permite anuncios en **canales públicos con más de 1000 suscriptores**.
 * Los anuncios son solo de **texto corto (160 caracteres)**, sin enlaces ni imágenes.
 * Segmentación limitada por **idioma, tema y país**.
-* El mínimo para anunciarse en la plataforma oficial es muy alto (**2 millones de euros de presupuesto**), por lo que **no está disponible para pequeños anunciantes por ahora**.
 
 ***
 
