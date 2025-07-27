@@ -107,3 +107,5 @@ flowchart TD
     F2 --> G
     TS5 --> G
 ```
+
+* tiktok shop para creadores necesitas 1500 seguidores en tu comunidad
