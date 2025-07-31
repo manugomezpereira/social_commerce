@@ -164,14 +164,14 @@ flowchart LR
 
 | Elemento                    | Descripción                                                                                                 | Coste mensual (€) | Coste anual (€) |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------- | --------------- |
-| OpenAI (GPT-4o-mini)        | Procesamiento de 40 comentarios transaccionales a 0,0001 USD c/u (\~0,004 €)                                | 0,004             | 0,05            |
+| OpenAI (GPT-4o-mini)        | Procesamiento de 200 comentarios transaccionales a 0,0001 USD c/u (\~0,02 €)                                | 0,02              | 0,24            |
 | Manychat                    | Plan mensual básico para automatización y respuesta a comentarios                                           | 15,00             | 180,00          |
 | Make (Integromat)           | Plan para hasta 10k operaciones                                                                             | 9,00              | 108,00          |
 | Servidor (Hosting)          | Infraestructura y alojamiento para la plataforma y servicios                                                | 10,00             | 120,00          |
 | IA multimodal (GPT-4o-mini) | Procesamiento avanzado para analizar imágenes, transcribir y entender textos, y extraer productos afiliados | 10,00             | 120,00          |
 |                             |                                                                                                             |                   |                 |
-| **TOTAL MENSUAL ESTIMADO**  |                                                                                                             | **44,00**         |                 |
-| **TOTAL ANUAL ESTIMADO**    |                                                                                                             |                   | **528,05**      |
+| **TOTAL MENSUAL ESTIMADO**  |                                                                                                             | **44,02**         |                 |
+| **TOTAL ANUAL ESTIMADO**    |                                                                                                             |                   | **528,24**      |
 
 **Notas y advertencias:**
 
@@ -204,9 +204,9 @@ flowchart LR
 
 **Comparativa con costes:**
 
-* Coste mensual total estimado: 44,00 €
+* Coste mensual total estimado: 44,02 €
 * Ingreso mensual por comisiones: 11,48 €
-* **Resultado mensual:** -32,52 € (pérdida)
+* **Resultado mensual:** -32,54 € (pérdida)
 
 | Parámetro                    | Valor      |
 | ---------------------------- | ---------- |
@@ -217,8 +217,8 @@ flowchart LR
 | Ingreso bruto por ventas (€) | 164        |
 | Comisión media (%)           | 7%         |
 | Comisión generada (€)        | 11,48      |
-| Coste mensual total (€)      | 44,00      |
-| **Resultado mensual (€)**    | **-32,52** |
+| Coste mensual total (€)      | 44,02      |
+| **Resultado mensual (€)**    | **-32,54** |
 
 **Conclusión:**
 
